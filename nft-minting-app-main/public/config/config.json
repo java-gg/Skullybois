@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x0f594697cdef2fa20de95b84cede2f936a8e9862",
+  "SCAN_LINK": "https://https://ftmscan.com/address/0x0f594697cdef2fa20de95b84cede2f936a8e9862",
+  "NETWORK": {
+    "NAME": "Fantom",
+    "SYMBOL": "FTM",
+    "ID": 250
+  },
+  "NFT_NAME": "Skullybois",
+  "SYMBOL": "SKBOIS",
+  "MAX_SUPPLY": 1234,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Operahouse",
+  "MARKETPLACE_LINK": "https://operahouse.online/collection/0x0f594697cdef2fa20de95b84cede2f936a8e9862",
+  "SHOW_BACKGROUND": true
+}
